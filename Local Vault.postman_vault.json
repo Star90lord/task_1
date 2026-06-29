@@ -1,0 +1,46 @@
+{
+	"info": {
+		"name": "Local Vault",
+		"_postman_id": "local"
+	},
+	"encryption": {
+		"enabled": true,
+		"type": "custom_password",
+		"salt": "etx8AZFgD4OHBq056Jvf0i9LtUi3L4JkW6vHExISJ0Y=",
+		"iv": "9ExkIExnBMg6JqIj",
+		"version": "1.0.0",
+		"sampleText": "0IV2gdvg42wjs+ByKgvpmUlKHctNEkcZJMPto7I="
+	},
+	"items": [
+		{
+			"enabled": true,
+			"key": "JRByO2yhW5khAZ4Or2VWteoeGkRHw9BpM4FJwBGEU2n+uR7N1b0HM1bFlEIb0OEap1M=",
+			"value": "MxxIMmyHS5UxG7E1jHZ84fsFPFtr8uMsOZ1rkyGwElDPi+08tjiNLBcENgO43X/M9LUNy/ELVj10pqChRMKExDHAoTrYSZvEJF1wxktQl1B1wUKqvDG0uikZipBpXrACLKzCnkI6qBmnRHH2KgrKvdO++dcI2Cocu0kOEg7jOf1vRdty51rwUMdfbXNXKdQpFUzvajY2EZpKEE8lD/XiU2UguWQwpOe4IxeXTMPHngJ+J9Gafqe0GDbSoA==",
+			"description": "",
+			"domains": [],
+			"salt": "Q6TUm1NzgcB2tOD86fEgUwes0xv6DCzuaE1tYP+ntcs=",
+			"iv": "QRRom4aNGR6IHzlN"
+		},
+		{
+			"enabled": true,
+			"key": "DXQnf2LjEmjQzh1j+0EHYlYXxZ8u1F3VEJnLaHwXEEQ=",
+			"value": "CXgZf1/XFGLtwiN1n1opIi9fejLfCH7Xq9FAiCFipp2LdHg53ucU3ZIBMXGy201HLb8MEl5gv7AO/SrZo8q5aO+Klqsh5QxW7sleQWvdU4gVfzHY23BScQy0F5ZnhUPskCMzR4G+sLrmeJzdS9IuOpS6ZW5ynanwNbPUP96pCUjcm/DGS0VtYzruvWv+wI+Sh+Aj7BlvD3X2BEeeYNxtWu/EKpRqT1zH0z+HqvQMGZH/NQkwpfXR8hNIOA==",
+			"description": "",
+			"domains": [],
+			"salt": "+2ZVmtIbUaOD8JiOtg5tgEKiClfxSMN5FDFC11OsAvw=",
+			"iv": "8pzpFZwazCvW0N3L"
+		},
+		{
+			"enabled": true,
+			"key": "pSqPb/wDywAlVYgX3r96+dZLNKvUNNhrsdaQXyOje32KSkM=",
+			"value": "qiCqacEzzQs1SK017qts+flFDOjksCGm+PQUGx2UTQzHrcLKsr9F6HcSuTRq/ykhMKSUBu3YYHVS+mc+XbkdMqM/96/ZCsyKTek7fKdisTf2ohQwRnU5AQXzg0wlbNFLXViM6hyveEBCrqWsBWH5Y5pW0JLKU66h+228h0TaICUUm6zIm7Rog1b2/EeWavPCekDRJ3TtNPVdFbFj8+X4P+1KK8yC4Z9mhmhKLT8anrlVxnj9oezjWLNyqA==",
+			"description": "",
+			"domains": [],
+			"salt": "d60vVDQ1WY6J7hBkns/dJIqg5ovz8v9wwPHv/byiXoc=",
+			"iv": "adaNjvoARVsEVR9d"
+		}
+	],
+	"_postman_variable_scope": "vault",
+	"_postman_exported_at": "2026-06-29T16:11:28.668Z",
+	"_postman_exported_using": "Postman/12.16.4"
+}
