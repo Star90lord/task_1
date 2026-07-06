@@ -4,6 +4,12 @@ A RESTful backend API built with the MERN stack that helps hackathon participant
 
 ---
 
+## All 4 tasks report
+- [task_1]([task_1](https://drive.google.com/file/d/1jMXVdM8j3Wqchmzn6IJLZyqQNvwLpOoQ/view?usp=drive_link))
+- [task_2]([task_2](https://drive.google.com/file/d/1wsmnR-YoN0-rdE17Bvq4pVbgM9UMwx6K/view?usp=drive_link))
+- [task_3]([task_3](https://drive.google.com/file/d/1UgsGwRWqpVK-d07kxGwI8Pi5xl5IHzxv/view?usp=drive_link))
+- [task_4]([task_4](https://drive.google.com/file/d/1wp-seS5Z71EOCXVPoMC-EgsqZVpGVq6c/view?usp=drive_link))
+
 ## Tech Stack
 
 - **Runtime:** Node.js
@@ -270,4 +276,5 @@ Tokens expire after **7 days**.
 ## Author
 
 **Altamash** — Backend Intern  
-[GitHub](https://github.com/Star90lord) • [LinkedIn](https://www.linkedin.com/in/altamash-malik/)
+- [GitHub](https://github.com/Star90lord)
+- [LinkedIn](https://www.linkedin.com/in/altamash-malik/)
